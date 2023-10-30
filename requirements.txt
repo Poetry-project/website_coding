@@ -1,6 +1,6 @@
 flask
 requests
-tensorflow
+tensorflow=2.10.1
 numpy
 pickle
 tweepy
