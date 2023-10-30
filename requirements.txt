@@ -1,0 +1,8 @@
+flask
+requests
+tensorflow
+numpy
+pickle
+tweepy
+SQLAlchemy 
+Flask-SQLAlchemy
