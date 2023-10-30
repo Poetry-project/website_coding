@@ -5,3 +5,4 @@ pickle
 tweepy
 SQLAlchemy 
 Flask-SQLAlchemy
+tensorflow==2.10.1
